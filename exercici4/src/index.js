@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Welcome from './components/Welcome';
+import Enrutador from './components/Enrutador';
 
 
 
 ReactDOM.render(<div>
 
 
-    <Welcome/></div>,
+    <Enrutador/></div>,
    
      document.getElementById('root')
 );
